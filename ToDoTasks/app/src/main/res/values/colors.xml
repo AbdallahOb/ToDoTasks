@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_blue">#164863</color>
+    <color name="secondaryBlue">#427D9D</color>
+    <color name="progress">#092635</color>
+    <color name="done">#1B4242</color>
+</resources>

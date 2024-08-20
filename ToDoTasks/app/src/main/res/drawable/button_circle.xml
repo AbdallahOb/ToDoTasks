@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/primary_blue" /> <!-- Button background color -->
+    <corners android:radius="50dp" /> <!-- Adjust the radius to make it a perfect circle -->
+    <size android:width="60dp" android:height="60dp" /> <!-- Adjust size as needed -->
+</selector>
